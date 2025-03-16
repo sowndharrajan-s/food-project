@@ -1,4 +1,4 @@
-project:Fooodmunch
+project :Food Store
 
 Developed a responsive website for an online food store, enabling users to view a list of food items, access detailed product information, and discover ongoing offers.
 
